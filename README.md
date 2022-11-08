@@ -1,4 +1,4 @@
-"# Lending_Club_Case_Study" 
+# Lending_Club_Case_Study
 
 Use EDA to understand the risk analysis in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 
@@ -26,7 +26,7 @@ If one is able to identify these risky loan applicants, then such loans can be r
 
 In this case study, you will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
 
-The Lending Club analysis is divided into four main parts:
+###The Lending Club analysis is divided into four main parts:
 
 #### Step 1: Data understanding  
 #### Step 2: Data Cleaning and Manipulation
